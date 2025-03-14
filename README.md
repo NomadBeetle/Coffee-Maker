@@ -19,7 +19,7 @@ This is a terminal-based Coffee Machine program written in Python. It simulates 
    ```
 2. Run the program:
    ```sh
-   python coffee_machine.py
+   python main.py
    ```
 
 ## Commands
